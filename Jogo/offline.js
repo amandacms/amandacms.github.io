@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502816002,
+	"version": 1502820556,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -37,6 +37,8 @@
 		"images/sabe-sheet0.png",
 		"images/sensor1-sheet0.png",
 		"media/2555__spluta__1mouseclick2.ogg",
+		"media/380074__plagasul__lupenblock.m4a",
+		"media/380074__plagasul__lupenblock.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
