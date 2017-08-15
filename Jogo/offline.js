@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502820556,
+	"version": 1502821427,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,7 +13,6 @@
 		"images/ganhou-sheet0.png",
 		"images/querjogar-sheet0.png",
 		"images/sim-sheet0.png",
-		"images/naosair-sheet0.png",
 		"images/i1-sheet0.png",
 		"images/i2-sheet0.png",
 		"images/i4-sheet0.png",
