@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502844185,
+	"version": 1504365521,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,7 +8,6 @@
 		"images/fundo-sheet0.png",
 		"images/fundogame-sheet0.png",
 		"images/fundowin-sheet0.png",
-		"images/fundolose-sheet0.png",
 		"images/play-sheet0.png",
 		"images/ganhou-sheet0.png",
 		"images/querjogar-sheet0.png",
@@ -38,6 +37,10 @@
 		"images/creditos-sheet0.png",
 		"images/creditos_tudo-sheet0.png",
 		"images/voltar-sheet0.png",
+		"images/42_tela-sheet0.png",
+		"images/fundao-sheet0.png",
+		"images/dica-sheet0.png",
+		"images/monitor-sheet0.png",
 		"media/2555__spluta__1mouseclick2.ogg",
 		"media/380074__plagasul__lupenblock.m4a",
 		"media/380074__plagasul__lupenblock.ogg",
