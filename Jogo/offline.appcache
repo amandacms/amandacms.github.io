@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1504493144
+#1504496307
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -38,6 +38,10 @@ images/ganhou-sheet0.png
 images/querjogar-sheet0.png
 images/sim-sheet0.png
 images/dica-sheet0.png
+images/instrucao1-sheet0.png
+images/instrucao2-sheet0.png
+images/seta_vai-sheet0.png
+images/seta_vem-sheet0.png
 media/2555__spluta__1mouseclick2.ogg
 media/380074__plagasul__lupenblock.m4a
 media/380074__plagasul__lupenblock.ogg

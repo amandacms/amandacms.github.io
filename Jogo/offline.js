@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504493144,
+	"version": 1504496307,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,10 @@
 		"images/querjogar-sheet0.png",
 		"images/sim-sheet0.png",
 		"images/dica-sheet0.png",
+		"images/instrucao1-sheet0.png",
+		"images/instrucao2-sheet0.png",
+		"images/seta_vai-sheet0.png",
+		"images/seta_vem-sheet0.png",
 		"media/2555__spluta__1mouseclick2.ogg",
 		"media/380074__plagasul__lupenblock.m4a",
 		"media/380074__plagasul__lupenblock.ogg",
