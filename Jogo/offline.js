@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504552279,
+	"version": 1504553128,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,6 +26,7 @@
 		"images/creditos_tudo-sheet0.png",
 		"images/fundo_cred-sheet0.png",
 		"images/voltar-sheet0.png",
+		"images/voltar2-sheet0.png",
 		"images/ito-sheet0.png",
 		"images/to-sheet0.png",
 		"images/poema-sheet0.png",
