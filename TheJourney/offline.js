@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1508526479,
+	"version": 1509735756,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,7 @@
 		"images/fimdalinha-sheet0.png",
 		"images/fimdetela-sheet0.png",
 		"images/botaoplay-sheet0.png",
+		"images/sprite-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
