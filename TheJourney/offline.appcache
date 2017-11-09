@@ -1,11 +1,12 @@
 ﻿CACHE MANIFEST
-#1509736049
+#1510245565
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 offlineClient.js
 images/mãe-sheet0.png
 images/mãe-sheet1.png
+images/mãe-sheet2.png
 images/barravômito-sheet0.png
 images/barravômito-sheet1.png
 images/barravômito-sheet2.png
@@ -22,6 +23,19 @@ images/fimdalinha-sheet0.png
 images/fimdetela-sheet0.png
 images/botaoplay-sheet0.png
 images/sprite-sheet0.png
+images/fundo_menu-sheet0.png
+images/bebê-sheet0.png
+images/mamadeiras-sheet0.png
+images/mamadeiras2-sheet0.png
+images/bebe_chorando-sheet0.png
+images/tela_vitoria-sheet0.png
+images/fundo_virtoria-sheet0.png
+media/menu.ogg
+media/perdeu.m4a
+media/perdeu.ogg
+media/venceu.m4a
+media/venceu.ogg
+media/trilha_sonora.ogg
 icon-16.png
 icon-32.png
 icon-114.png
