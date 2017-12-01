@@ -1,7 +1,8 @@
 ﻿{
-	"version": 1512155278,
+	"version": 1512156016,
 	"fileList": [
 		"data.js",
+		"game.html",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
@@ -31,6 +32,7 @@
 		"images/bebe_chorando-sheet0.png",
 		"images/tela_vitoria-sheet0.png",
 		"images/fundo_virtoria-sheet0.png",
+		"images/logo-sheet0.png",
 		"media/menu.ogg",
 		"media/perdeu.m4a",
 		"media/perdeu.ogg",
