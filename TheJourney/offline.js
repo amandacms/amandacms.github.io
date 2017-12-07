@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1512647063,
+	"version": 1512650062,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,6 +51,8 @@
 		"images/azia-sheet0.png",
 		"images/azia-sheet1.png",
 		"images/sprite5-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
 		"media/fase.m4a",
 		"media/fase.ogg",
 		"media/click.ogg",
