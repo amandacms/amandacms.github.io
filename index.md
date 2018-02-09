@@ -16,6 +16,8 @@ Criando **minha** _página_ ~~principal~~.
 ## Artes
  
  ![BMAX](https://pbs.twimg.com/media/Ckdf4BFUoAAC-kz.png)
+ 
+ ![](Bart.jpg)
 
 ## Projetos
 
