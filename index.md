@@ -11,7 +11,7 @@ Criando **minha** _página_ ~~principal~~.
 
 ## Games
 
-[42](amanda13.github.io/Jogo/)
+[![](capturar.png)](amanda13.github.io/Jogo/)
 
 ## Artes
  
