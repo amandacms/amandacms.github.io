@@ -14,14 +14,17 @@ Criando **minha** _página_ ~~principal~~.
 [42](amanda13.github.io/Jogo/)
 
 ## Artes
+ 
+ ![BMAX](https://pbs.twimg.com/media/Ckdf4BFUoAAC-kz.png)
+
+## Projetos
+
 * Proj Teatro
 * Proj Música
 * Proj Jogos  
 1 A  
 2 B  
-3 C  
-
-## Projetos
+3 C 
 
 (**) negrito  
 (_)  itálico  
