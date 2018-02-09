@@ -13,7 +13,7 @@ Criando **minha** _página_ ~~principal~~.
 
 [![](Capturar.png)](amanda13.github.io/Jogo/)
 
-## Artes
+## Artes 
  
  ![BMAX](https://pbs.twimg.com/media/Ckdf4BFUoAAC-kz.png)
  
