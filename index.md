@@ -5,7 +5,10 @@ layout: default
 
 
 ## Sobre mim
-  Aluno de jogos fazendo jogos.
+  IFRN - Ceará-Mirim   
+  Programação de Jogos Digitais   
+  Finalzinho do 3º Ano   
+  
 ## Portfólio
 
 ### Games
