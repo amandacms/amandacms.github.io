@@ -4,11 +4,11 @@ layout: default
 # Amanda Marques
 
 
-# Sobre mim
+## Sobre mim
   Aluno de jogos fazendo jogos.
-# Portfólio
+## Portfólio
 
-## Games
+### Games
 
 [Aplistia]
 
