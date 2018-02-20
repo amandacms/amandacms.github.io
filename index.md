@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#Amanda Marques
+# Amanda Marques
 
 
 # Sobre mim
