@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-
-Criando **minha** _página_ ~~principal~~.  
-(#) deixa as letras maiores e da pra fazer titulos e subtitulos
-
 # Sobre mim
   Aluno de jogos fazendo jogos.
 # Portfólio
