@@ -9,8 +9,7 @@ layout: default
   Programação de Jogos Digitais   
   Finalzinho do 3º Ano   
   
-## Portfólio
-
+## Portfólio   
 ### Games
 
 [Aplistia]
