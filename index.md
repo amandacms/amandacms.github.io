@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Amanda Marques
+# Amanda Marques   
+![](dinofauro.png)
 
 
 ## Sobre mim
