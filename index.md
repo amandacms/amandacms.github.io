@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+#Amanda Marques
+
+
 # Sobre mim
   Aluno de jogos fazendo jogos.
 # Portfólio
