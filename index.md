@@ -17,15 +17,8 @@ layout: default
 [The Journey](amanda13.github.io/TheJourney/)
 
 
-## Artes 
- 
- ![](Bart.jpg)
 
-## Projetos
-* Proj Jogos  
-1 Aplistia  
-2 42  
-3 The Journey
+
 
 * * *
 
