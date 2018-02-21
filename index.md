@@ -13,7 +13,7 @@ layout: default
 ## Portfólio   
 ### Games
 
-[Aplistia]
+[Aplistia](joaothiago06.github.io/Aplistia_/)
 
 [42](amanda13.github.io/Jogo/)
 
