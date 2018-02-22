@@ -15,7 +15,7 @@ layout: default
 
 [![](aplistia.png)](https://amanda13.github.io/Aplistia/)   
 [![](42.PNG)](https://amanda13.github.io/amanda13.github.io/Jogo/)
-[The Journey](amanda13.github.io/TheJourney/)
+[![](journey.png)](amanda13.github.io/TheJourney/)
 
 
 
