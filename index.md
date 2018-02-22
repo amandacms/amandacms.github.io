@@ -13,7 +13,9 @@ layout: default
 ## Portfólio   
 ### Games
 
-[![](aplistia.png)](https://amanda13.github.io/Aplistia/)   
+[![](aplistia.png)](https://amanda13.github.io/Aplistia/)  
+APLISTIA
+  Jogo sobre uma estória ficcionária sobre um Deus grego que está atrás causar caos onde passa.
 [![](42.PNG)](https://amanda13.github.io/amanda13.github.io/Jogo/)
 [![](journey.png)](amanda13.github.io/TheJourney/)
 
