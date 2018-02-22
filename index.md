@@ -19,7 +19,7 @@ layout: default
 
 
 
-![facebook.png](facebook.png)
+
 
 * * *
 
