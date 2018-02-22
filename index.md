@@ -20,7 +20,9 @@ layout: default
 
 
 
-[![](gmail.png)](amanda001.ac@gmail.com)
+Para contato:
+[![](gmail.com)]
+amanda001.ac@gmail.com
 * * *
 
 [//]: # (Não aparece)
