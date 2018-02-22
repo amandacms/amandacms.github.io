@@ -20,8 +20,8 @@ layout: default
 
 
 
-Para contato:
-[![](gmail.com)]
+Para contato:   
+[![](gmail.com)]   
 amanda001.ac@gmail.com
 * * *
 
