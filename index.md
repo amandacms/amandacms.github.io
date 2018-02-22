@@ -21,7 +21,7 @@ layout: default
 
 
 Para contato:   
-[![](gmail.com)]   
+[![](gmail.png)]   
 amanda001.ac@gmail.com
 * * *
 
