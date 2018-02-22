@@ -14,7 +14,7 @@ layout: default
 ### Games
 
 [![](aplistia.png)](https://amanda13.github.io/Aplistia/)   
-[![](42.png)](amanda13.github.io/Jogo/)   
+(amanda13.github.io/Jogo/)   
 [The Journey](amanda13.github.io/TheJourney/)
 
 
