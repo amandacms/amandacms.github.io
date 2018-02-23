@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Amanda Marques
+# Amanda Marques   
+
+![](git.PNG)
 
 ## Sobre mim
   IFRN - Ceará-Mirim   
