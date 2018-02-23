@@ -33,7 +33,7 @@ layout: default
 
 
 Para contato:   
-![](gmail.png)[![](pin.png)](https://br.pinterest.com/imamandamarques/)[![](insta.png)](instagram.com/imamandamarques/)   
+![](gmail.png)[![](pin.png)](https://br.pinterest.com/imamandamarques/)[![](insta.png)](https://www.instagram.com/imamandamarques/)   
 amanda001.ac@gmail.com
 * * *
 
