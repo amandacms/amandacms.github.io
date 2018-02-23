@@ -31,7 +31,8 @@ layout: default
   
 ### Influence Map
 Esse pode ser meu próximo joguinho, com tema mistério.
-![](map.png)
+![](map.png)   
+Um jogo sobre resolver mistérios em um cidade em que nada é o que parece. Onde você descobre que a vida que leva é uma grande ilusão. Inspirada nos contos de fada (nada fofos) dos Irmãos Grimm, com um toque policial da série televisiva Grimm.
 
 
 
