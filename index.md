@@ -10,7 +10,8 @@ layout: default
   IFRN - Ceará-Mirim   
   Programação de Jogos Digitais   
   Finalzinho do 3º Ano   
-  E esse é meu portfólio...
+  E esse é meu portfólio...   
+  Orientador: Profº Marcelo Barbosa
 ## Portfólio   
 ### Games
 
