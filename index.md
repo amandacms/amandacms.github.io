@@ -27,7 +27,11 @@ layout: default
   
 [![](journey.png)](amanda13.github.io/TheJourney/)   
 ### The Journey   
-  Um jogo sobre uma jovem mamãe que tem que passar pela sua grávidez de forma saúdavel e inteligente, tendo que enfrentar grandes responsabilidades como tomar remédios, driblar o enjôo e a azía, entre outros.                
+  Um jogo sobre uma jovem mamãe que tem que passar pela sua grávidez de forma saúdavel e inteligente, tendo que enfrentar grandes responsabilidades como tomar remédios, driblar o enjôo e a azía, entre outros.          
+  
+### Influence Map
+Esse pode ser meu próximo joguinho, com tema mistério.
+![](map.png)
 
 
 
