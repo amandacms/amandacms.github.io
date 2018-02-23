@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-# Amanda Marques   
-![](dinofauro.png)
-
-
 ## Sobre mim
   IFRN - Ceará-Mirim   
   Programação de Jogos Digitais   
