@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+   # Amanda Marques
+
 ## Sobre mim
   IFRN - Ceará-Mirim   
   Programação de Jogos Digitais   
