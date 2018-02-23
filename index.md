@@ -33,7 +33,7 @@ layout: default
 
 
 Para contato:   
-![](gmail.png)   
+![](gmail.png)![](pin.png)![](insta.png)
 amanda001.ac@gmail.com
 * * *
 
