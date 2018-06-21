@@ -9,9 +9,10 @@ layout: default
 ## Sobre mim
   IFRN - Ceará-Mirim   
   Programação de Jogos Digitais   
-  Finalzinho do 3º Ano   
-  E esse é meu portfólio...   
-  Orientador: Profº Marcelo Barbosa
+  Estou no 4º ano...      
+  E tentando não surtar com o TCC.   
+  Orientador: Profº Marcelo Barbosa   
+  IMD - ênfase em jogos digitais    
 ## Portfólio   
 ### Games
 
