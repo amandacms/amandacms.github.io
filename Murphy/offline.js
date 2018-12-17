@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1545012217,
+	"version": 1545013381,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,8 @@
 		"images/card1-sheet1.png",
 		"images/card1-sheet2.png",
 		"images/configurações-sheet0.png",
+		"images/voltarmenu-sheet0.png",
+		"images/sair-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
