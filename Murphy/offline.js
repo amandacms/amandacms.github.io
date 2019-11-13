@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1573616012,
+	"version": 1573687738,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,10 +20,11 @@
 		"images/perdeu-sheet0.png",
 		"images/vitoria-sheet0.png",
 		"images/inimigo-sheet0.png",
-		"images/fundo1-sheet0.png",
 		"images/ceu-sheet0.png",
 		"images/tilemap.png",
 		"images/tilemap2.png",
+		"images/camera.png",
+		"images/tiledbackground.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
