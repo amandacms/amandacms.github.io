@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1573523573,
+	"version": 1573616012,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,8 @@
 		"images/inimigo-sheet0.png",
 		"images/fundo1-sheet0.png",
 		"images/ceu-sheet0.png",
+		"images/tilemap.png",
+		"images/tilemap2.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
