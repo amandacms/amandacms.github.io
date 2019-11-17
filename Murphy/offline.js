@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1573969391,
+	"version": 1573972652,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,7 @@
 		"images/partituras-sheet0.png",
 		"images/locked-sheet0.png",
 		"images/desafioo-sheet0.png",
+		"images/sombrasdecasas.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
