@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574003930,
+	"version": 1574018421,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,6 +26,8 @@
 		"images/sombrasdecasas.png",
 		"images/testedragedrop-sheet0.png",
 		"images/sistemadragedrop2-sheet0.png",
+		"images/porta-sheet0.png",
+		"images/porta-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
