@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1573972652,
+	"version": 1573996289,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,9 +18,13 @@
 		"images/predios-sheet0.png",
 		"images/botaodoplay-sheet0.png",
 		"images/partituras-sheet0.png",
+		"images/partituras-sheet1.png",
 		"images/locked-sheet0.png",
+		"images/locked-sheet1.png",
 		"images/desafioo-sheet0.png",
 		"images/sombrasdecasas.png",
+		"images/testedragedrop-sheet0.png",
+		"images/sistemadragedrop2-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
