@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574026915,
+	"version": 1574461624,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,7 @@
 		"images/casas-sheet0.png",
 		"images/predios-sheet0.png",
 		"images/botaodoplay-sheet0.png",
+		"images/botaodoplay-sheet1.png",
 		"images/partituras-sheet0.png",
 		"images/partituras-sheet1.png",
 		"images/locked-sheet0.png",
@@ -28,6 +29,10 @@
 		"images/sistemadragedrop2-sheet0.png",
 		"images/porta-sheet0.png",
 		"images/porta-sheet1.png",
+		"images/fundomenu-sheet0.png",
+		"images/logoempresa-sheet0.png",
+		"images/fundologoempresa-sheet0.png",
+		"images/logoprojeto-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
