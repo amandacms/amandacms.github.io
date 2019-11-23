@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574461624,
+	"version": 1574471387,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -33,6 +33,10 @@
 		"images/logoempresa-sheet0.png",
 		"images/fundologoempresa-sheet0.png",
 		"images/logoprojeto-sheet0.png",
+		"images/teatrodelado-sheet0.png",
+		"images/chaofundo-sheet0.png",
+		"images/bancos.png",
+		"images/sensor-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
