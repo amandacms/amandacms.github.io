@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574559478,
+	"version": 1574617348,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,7 +11,6 @@
 		"images/limites-sheet0.png",
 		"images/plats-sheet0.png",
 		"images/casa-sheet0.png",
-		"images/ceu-sheet0.png",
 		"images/arvore-sheet0.png",
 		"images/bancadefrutas-sheet0.png",
 		"images/casas-sheet0.png",
@@ -39,6 +38,9 @@
 		"images/fundo-sheet0.png",
 		"images/parede.png",
 		"images/instrumento1-sheet0.png",
+		"images/outracasa-sheet0.png",
+		"images/ceu.png",
+		"images/ceuceu.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
