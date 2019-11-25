@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574635190,
+	"version": 1574652068,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,15 @@
 		"images/ceu.png",
 		"images/ceuceu.png",
 		"images/chaochao.png",
+		"images/fundodesafio-sheet0.png",
+		"images/partituragiganteembranco-sheet0.png",
+		"images/dó-sheet0.png",
+		"images/ré-sheet0.png",
+		"images/mi-sheet0.png",
+		"images/fá-sheet0.png",
+		"images/sol-sheet0.png",
+		"images/lá-sheet0.png",
+		"images/si-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
