@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1575128031,
+	"version": 1581112856,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -50,6 +50,8 @@
 		"images/si-sheet0.png",
 		"images/playbottondesafio1-sheet0.png",
 		"images/playbottondesafio1-sheet1.png",
+		"images/dósensor-sheet0.png",
+		"images/tiledbackground.png",
 		"media/dó.m4a",
 		"media/dó.ogg",
 		"media/re.m4a",
