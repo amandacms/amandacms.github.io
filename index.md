@@ -4,8 +4,6 @@ layout: default
 
 # Amanda Marques   
 
-![](git.PNG)
-
 ## Sobre mim
   IFRN - Ceará-Mirim   
   Programação de Jogos Digitais   
