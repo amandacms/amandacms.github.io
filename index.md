@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Amanda Marques   
+# Amanda Marques
+
+![](Saiko♦️ on Twitter.jpg)
 
 ## Sobre mim
    UFRN - Universidade Federal do Rio Grande do Norte
