@@ -5,12 +5,9 @@ layout: default
 # Amanda Marques   
 
 ## Sobre mim
-  IFRN - Ceará-Mirim   
-  Programação de Jogos Digitais   
-  Estou no 4º ano...      
-  E tentando não surtar com o TCC.   
-  Orientador: Profº Marcelo Barbosa   
-  IMD - ênfase em jogos digitais    
+   UFRN - Universidade Federal do Rio Grande do Norte
+   
+   Bacharelado em Tecnologia da Informação
 ## Portfólio   
 ### Games
 
@@ -37,7 +34,7 @@ Um jogo sobre resolver mistérios em um cidade em que nada é o que parece. Onde
 
 
 Para contato:   
-![](gmail.png)[![](pin.png)](https://br.pinterest.com/imamandamarques/)[![](insta.png)](https://www.instagram.com/imamandamarques/)   
+![](gmail.png)[![](pin.png)](https://br.pinterest.com/imamandamarques/)[![](insta.png)](https://www.instagram.com/kimberlythefrog/)   
 amanda001.ac@gmail.com
 * * *
 
