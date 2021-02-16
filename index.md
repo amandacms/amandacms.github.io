@@ -7,6 +7,9 @@ layout: default
 ![](Saiko♦️ on Twitter.png)
 
 ## Sobre mim
+
+![](profile-pic.png)
+
    UFRN - Universidade Federal do Rio Grande do Norte
    
    Bacharelado em Tecnologia da Informação
