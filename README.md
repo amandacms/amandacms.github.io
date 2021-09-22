@@ -1,2 +1,2 @@
 # Amanda Marques
-Trying to program
+Trying to code
