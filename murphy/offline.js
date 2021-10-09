@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1633285905,
+	"version": 1633788003,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -9,6 +9,7 @@
 		"images/botãomúsica-sheet1.png",
 		"images/botãocréditos-sheet0.png",
 		"images/botãostart-sheet0.png",
+		"images/botãostart-sheet1.png",
 		"images/cama-sheet0.png",
 		"images/armario-sheet0.png",
 		"images/portaquartosala-sheet0.png",
@@ -36,6 +37,7 @@
 		"images/personagem-sheet0.png",
 		"images/testecréditos-sheet0.png",
 		"images/teto-sheet0.png",
+		"images/papeldeparededomenu-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
