@@ -1,9 +1,9 @@
 ﻿{
-	"version": 1633788003,
+	"version": 1640831263,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
-		"jquery-2.1.1.min.js",
+		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/botãomúsica-sheet0.png",
 		"images/botãomúsica-sheet1.png",
@@ -12,6 +12,7 @@
 		"images/botãostart-sheet1.png",
 		"images/cama-sheet0.png",
 		"images/armario-sheet0.png",
+		"images/armario-sheet1.png",
 		"images/portaquartosala-sheet0.png",
 		"images/janelaquarto-sheet0.png",
 		"images/escrivaninha-sheet0.png",
