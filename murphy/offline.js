@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1645655872,
+	"version": 1645670695,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -69,6 +69,7 @@
 		"images/setasinstruções-sheet0.png",
 		"images/mouseinstruções-sheet0.png",
 		"images/botãocontinuarcontroles-sheet0.png",
+		"images/caixadeobjetivos-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
