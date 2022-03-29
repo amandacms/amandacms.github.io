@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1647536038,
+	"version": 1648537478,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -156,6 +156,13 @@
 		"images/locker3-sheet0.png",
 		"images/locker4-sheet0.png",
 		"images/check-sheet0.png",
+		"images/cenafinalizacao-sheet0.png",
+		"images/tracyname-sheet0.png",
+		"images/kimname-sheet0.png",
+		"images/cintianame-sheet0.png",
+		"images/janename-sheet0.png",
+		"images/schoolcake-sheet0.png",
+		"images/schoolenter-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

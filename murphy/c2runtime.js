@@ -21417,10 +21417,10 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.c2canvas,
 	cr.plugins_.Keyboard,
 	cr.plugins_.Mouse,
+	cr.plugins_.TiledBg,
+	cr.plugins_.Spritefont2,
 	cr.plugins_.Sprite,
 	cr.plugins_.Text,
-	cr.plugins_.Spritefont2,
-	cr.plugins_.TiledBg,
 	cr.behaviors.Sin,
 	cr.behaviors.Platform,
 	cr.behaviors.scrollto,
@@ -21461,8 +21461,11 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.cnds.OnCollision,
 	cr.plugins_.Sprite.prototype.cnds.CompareHeight,
 	cr.plugins_.Sprite.prototype.acts.SetSize,
-	cr.behaviors.DragnDrop.prototype.cnds.OnDragStart,
-	cr.behaviors.Pin.prototype.acts.Pin,
-	cr.plugins_.Sprite.prototype.acts.SetOpacity
+	cr.behaviors.DragnDrop.prototype.cnds.OnDrop,
+	cr.plugins_.Sprite.prototype.exps.X,
+	cr.plugins_.Sprite.prototype.exps.Y,
+	cr.plugins_.Sprite.prototype.acts.SetOpacity,
+	cr.plugins_.Text.prototype.exps.X,
+	cr.plugins_.Text.prototype.exps.Y
 ];};
 
